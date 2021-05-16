@@ -25,6 +25,7 @@
     "log-symbols": "^4.1.0"
   },
   "scripts": {
+    "start": "gulp prod",
     "dev": "gulp",
     "build": "gulp prod",
     "prod": "gulp prod"
